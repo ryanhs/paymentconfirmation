@@ -1,6 +1,6 @@
-# paymentconfirmation
+# Basic Prestashop Payment Confirmation Module
 
-basic prestashop payment confirmation
+basic prestashop payment confirmation module.
 
 ## credits
 lots of parts of this code taken from prestashop module it self as example when i create this module,
