@@ -1,0 +1,1 @@
+<li><a href="{$link->getModuleLink('paymentconfirmation','confirmation')|escape:'html':'UTF-8'}" title="{l mod='paymentconfirmation' s='Payment Confirmation'}"><i class="icon-user"></i><span>{l mod='paymentconfirmation' s='Payment Confirmation'}</span></a></li>
